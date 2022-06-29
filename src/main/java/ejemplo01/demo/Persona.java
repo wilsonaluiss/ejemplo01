@@ -3,7 +3,7 @@ package ejemplo01.demo;
 import javax.persistence.*;
 
 @Entity
-@Table(name ="personas" , schema = "proyecto")
+@Table(name ="personas" , schema = "public")
 /**
  *
  * @author lexlp
